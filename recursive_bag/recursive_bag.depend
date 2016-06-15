@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1449891447 source:h:\cb projects\recursive_bag\main.cpp
+	<stdio.h>
+	<iostream>
+	<vector>
+

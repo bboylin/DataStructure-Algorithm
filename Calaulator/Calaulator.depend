@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1458019069 source:h:\cb projects\calaulator\main.cpp
+	<iostream>
+	<stack>
+	<queue>
+	<cstring>
+	<string>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1451115878 source:h:\cb projects\farmergoacrossriver\main.cpp
+	<iostream>
+	"Graphm.h"
+
+1451115892 h:\cb projects\farmergoacrossriver\graphm.h
+	<iostream>
+	"myqueue.h"
+
+1450491307 h:\cb projects\farmergoacrossriver\myqueue.h
+

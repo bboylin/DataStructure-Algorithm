@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1449505512 source:h:\cb projects\graph\main.cpp
+	<iostream>
+	"graph.h"
+	"myqueue.h"
+	<assert.h>
+	"limits.h"
+	<cstdlib>
+
+1449021477 h:\cb projects\graph\graph.h
+
+1449135750 h:\cb projects\graph\myqueue.h
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1449747494 source:h:\cb projects\bag_stack\main.cpp
+	<iostream>
+	"stackbag.h"
+
+1451118676 h:\cb projects\bag_stack\stackbag.h
+	<iostream>
+	<map>
+

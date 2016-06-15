@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1448544192 source:h:\cb projects\stack\main.cpp
+	<iostream>
+	<assert.h>
+	"stack.h"
+
+1448544000 h:\cb projects\stack\stack.h
+

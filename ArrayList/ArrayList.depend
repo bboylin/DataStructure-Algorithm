@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1448469151 source:/home/d-lin/coding/ArrayList/main.cpp
+	<iostream>
+	"arraylist.h"
+
+1448468855 /home/d-lin/coding/ArrayList/arraylist.h
+

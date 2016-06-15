@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1448703410 source:h:\cb projects\queue\main.cpp
+	<iostream>
+	"myqueue.h"
+	<cstdlib>
+
+1448703203 h:\cb projects\queue\myqueue.h
+

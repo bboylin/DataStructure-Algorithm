@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1448607026 source:h:\cb projects\quicksort\main2.cpp
+	<iostream>
+
+1448617365 source:h:\cb projects\quicksort\main.cpp
+	<iostream>
+
